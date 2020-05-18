@@ -25,6 +25,6 @@ Rosa wants to build a dashboard that both the research participants and her fell
 
 All the code to visulize the dashboard is present above, the index.html and plots.js files. 
 
-## * Link to the deployed page for the portfolio*
+## *Link to the deployed page for the portfolio*
 
 https://azaima-asghar.github.io/Plotly-and-Belly-Button-Biodiversity/.
