@@ -31,4 +31,4 @@ All the code to visulize the dashboard is present above, the index.html and plot
 
 ## * Link to the deployed page for the portfolio*
 
-
+https://azaima-asghar.github.io/Plotly-and-Belly-Button-Biodiversity/.
